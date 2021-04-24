@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sansafes/static/css/main.57cb102e.chunk.css",
+    "main.js": "/sansafes/static/js/main.baa4114e.chunk.js",
+    "main.js.map": "/sansafes/static/js/main.baa4114e.chunk.js.map",
+    "runtime-main.js": "/sansafes/static/js/runtime-main.d4c6e6dd.js",
+    "runtime-main.js.map": "/sansafes/static/js/runtime-main.d4c6e6dd.js.map",
+    "static/js/2.5b032812.chunk.js": "/sansafes/static/js/2.5b032812.chunk.js",
+    "static/js/2.5b032812.chunk.js.map": "/sansafes/static/js/2.5b032812.chunk.js.map",
+    "static/js/3.f693b371.chunk.js": "/sansafes/static/js/3.f693b371.chunk.js",
+    "static/js/3.f693b371.chunk.js.map": "/sansafes/static/js/3.f693b371.chunk.js.map",
+    "index.html": "/sansafes/index.html",
+    "static/css/main.57cb102e.chunk.css.map": "/sansafes/static/css/main.57cb102e.chunk.css.map",
+    "static/js/2.5b032812.chunk.js.LICENSE.txt": "/sansafes/static/js/2.5b032812.chunk.js.LICENSE.txt",
+    "static/media/NHN.88ae868a.jpeg": "/sansafes/static/media/NHN.88ae868a.jpeg",
+    "static/media/Wendy.72be6ead.jpeg": "/sansafes/static/media/Wendy.72be6ead.jpeg",
+    "static/media/fe.b3c92ed3.png": "/sansafes/static/media/fe.b3c92ed3.png",
+    "static/media/fire.e83df7c2.png": "/sansafes/static/media/fire.e83df7c2.png",
+    "static/media/hp.9dbfa7a3.png": "/sansafes/static/media/hp.9dbfa7a3.png",
+    "static/media/monroe.481bf2ac.png": "/sansafes/static/media/monroe.481bf2ac.png",
+    "static/media/safe1.d230ef92.png": "/sansafes/static/media/safe1.d230ef92.png",
+    "static/media/safes.a697b05a.jpg": "/sansafes/static/media/safes.a697b05a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4c6e6dd.js",
+    "static/js/2.5b032812.chunk.js",
+    "static/css/main.57cb102e.chunk.css",
+    "static/js/main.baa4114e.chunk.js"
+  ]
+}
